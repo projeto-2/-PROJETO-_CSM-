@@ -48,3 +48,4 @@ Passos para execução
    No terminal, execute o comando abaixo para clonar o repositório:
    ```bash
    git clone https://github.com/NOME-DA-ORGANIZACAO/NOME-DO-REPOSITORIO.git
+[Página Inicial.pdf](https://github.com/user-attachments/files/22789276/Pagina.Inicial.pdf)
